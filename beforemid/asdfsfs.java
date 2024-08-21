@@ -1,3 +1,4 @@
+package beforemid;
 
 public class asdfsfs {
     static int num1 = 1;
